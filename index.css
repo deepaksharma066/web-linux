@@ -1,0 +1,26 @@
+html,
+body {
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#output{
+    width: 700px;
+    height: 500px;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: rgba(54, 26, 177, 0.4);
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+}
+#linkedin{
+  margin-left: 50px;
+}
+#cmd_input{
+  background-color: rgba(29, 185, 196, 0.8);
+}
